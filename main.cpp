@@ -602,8 +602,8 @@ vector<media> countingSortRuntime(vector<media> &genre) {
          cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" << endl;
          cout << "~~~~              Select media runtime              ~~~~" << endl;
          cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" << endl;
-         cout << "~~~~            1 1-30 min   2 30-60 min            ~~~~" << endl;
-         cout << "~~~~            3 60-90 min  4 90-240 min           ~~~~" << endl;
+         cout << "~~~~            1 1-30 min   2 31-60 min            ~~~~" << endl;
+         cout << "~~~~            3 61-90 min  4 91-240 min           ~~~~" << endl;
          cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" << endl;
          cout << "~~~~" << endl;
          cout << " ";
