@@ -807,15 +807,15 @@ vector<media> countingSortRuntime(vector<media> &genre) {
          cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" << endl;
          cout << cChosenGenre[indexFirstMedia].englishName << ", "
               << cChosenGenre[indexFirstMedia].releaseYear << ", "
-              << cChosenGenre[indexFirstMedia].runTime << endl;
+              << cChosenGenre[indexFirstMedia].runTime << " min" << endl;
 
          cout << cChosenGenre[indexSecondMedia].englishName << ", "
               << cChosenGenre[indexSecondMedia].releaseYear << ", "
-              << cChosenGenre[indexSecondMedia].runTime << endl;
+              << cChosenGenre[indexSecondMedia].runTime << " min" << endl;
 
          cout << cChosenGenre[indexThirdMedia].englishName << ", "
               << cChosenGenre[indexThirdMedia].releaseYear << ", "
-              << cChosenGenre[indexThirdMedia].runTime << endl;
+              << cChosenGenre[indexThirdMedia].runTime << " min" << endl;
          cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" << endl;
          cout << endl;
 
